@@ -61,7 +61,7 @@ git clone https://github.com/SEU_USUARIO/stravafriends.git
 cd stravafriends
 ```
 
-### **2. Configure o n8n
+### **2. Configure o n8n**
 
 Você pode rodar:
 
