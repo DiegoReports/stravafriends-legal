@@ -1,6 +1,6 @@
-# 🏅 StravaFriends – Competição Amistosa com Strava + WhatsApp + IA
+# 🏅 StvFriends – Competição Amistosa com Strava + WhatsApp + IA
 
-O **StravaFriends** é um projeto que cria uma competição esportiva amigável entre amigos, usando dados do **Strava**, banco de dados no **Supabase**, automações com **n8n**, mensagens personalizadas via **WhatsApp** (Evolution API) e incentivos motivacionais gerados por **IA (Gemini)**.
+O **StvFriends** é um projeto que cria uma competição esportiva amigável entre amigos, usando dados do **Strava**, banco de dados no **Supabase**, automações com **n8n**, mensagens personalizadas via **WhatsApp** (Evolution API) e incentivos motivacionais gerados por **IA (Gemini)**.
 
 O objetivo é transformar atividades esportivas do dia a dia em um jogo interativo com pontuação, ranking e mensagens motivacionais automáticas enviadas para um grupo no WhatsApp.
 
@@ -57,8 +57,8 @@ Após gerar as credenciais, configure-as como variáveis de ambiente no n8n.
 
 ### **1. Clone o repositório**
 ```bash
-git clone https://github.com/SEU_USUARIO/stravafriends.git
-cd stravafriends
+git clone https://github.com/SEU_USUARIO/StvFriends.git
+cd StvFriends
 ```
 
 ### **2. Configure o n8n**
