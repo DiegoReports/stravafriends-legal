@@ -115,9 +115,9 @@ Termos de Uso e Política de Privacidade estão hospedados no GitHub Pages
 - [x] ✔ Arquitetura definida
 - [x] ✔ Modelagem do banco Supabase
 - [x] ✔ Regras de pontuação finalizadas
-- [ ]🔄 Configuração da Strava como Public App (em andamento)
-- [ ]🔄 Criação dos workflows no n8n
-- [ ]⬜ Interface web (opcional – fase futura)
+- [ ] 🔄 Configuração da Strava como Public App (em andamento)
+- [ ] 🔄 Criação dos workflows no n8n
+- [ ] ⬜ Interface web (opcional – fase futura)
 
 ### 🤝 Contribuição
 
